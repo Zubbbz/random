@@ -24,4 +24,5 @@ fn main() {
 	let v = vec![String::from("3"), String::from("abc")];
 	let total = sum_str_vec(v);
 	println!("{:?}", total);
+	println!("i made some changes");
 }
